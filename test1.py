@@ -1,3 +1,0 @@
-print('lalla')
-
-print('aaja')
